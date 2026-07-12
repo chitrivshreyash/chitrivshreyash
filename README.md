@@ -7,6 +7,15 @@
 I'm a Computer Science Engineering student passionate about Cloud Computing, Software Development, and exploring new technologies. I enjoy building projects, learning modern development tools, and continuously improving my programming skills.
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chitrivshreyash/chitrivshreyash/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chitrivshreyash/chitrivshreyash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ## 👨‍💻 About Me
 
